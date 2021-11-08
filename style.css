@@ -1,0 +1,150 @@
+body {
+  background-color: #E6E6FA;
+}
+
+.nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: black;
+}
+
+.nav li {
+  float: left;
+}
+
+.nav li a {
+  display: block;
+  color: #E6E6FA;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+.nav li a:hover {
+  background-color: white;
+}
+
+{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 50px;
+  font-weight: bold;
+  text-decoration: underline;
+  background-image:url(https://upload.wikimedia.org/wikipedia/commons/a/aa/Dawn_on_the_S_rim_of_the_Grand_Canyon_%288645178272%29.jpg);
+}
+
+.Quote {
+  height: 400px;
+  min-width: 100%;
+}
+
+.center {
+  color: black;
+  font-weight: bold;
+  font-size: 40px;
+  text-decoration: underline;
+  top: 50%;
+  left: 50%;
+  position: absolute;
+  font-family: Georgia;
+}
+
+.title {
+  text-align: center;
+  font-size: 40px;
+  text-decoration: underline;
+  font-weight: bold;
+  font-family: Georgia;
+}
+
+.boxed {
+  border: 5px solid white;
+  text-align: center;
+  font-family: Georgia;
+  line-height: 2;
+}
+
+footer {
+  width:100%;
+  left:0;
+  bottom:0;
+  background-color: grey;
+  color: white;
+  text-align: center;
+  position: fixed;
+}
+
+.nav {
+  width: 100%;
+  display: block;
+}
+
+.size{
+  margin: 30px;
+  font-family: Georgia;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.card-body {
+  text-align: center;
+}
+
+.color {
+  color: black;
+  font-weight: bold;
+  text-decoration: underline;
+  background-color: #E6E6FA;
+  padding: 5px;
+  font-size: 30px;
+}
+
+li {
+  font-family: Verdana;
+}
+
+.list-group-item {
+  padding: 10px;
+}
+
+.card {
+  display: inline-block;
+  margin: 1.9rem;
+  text-align: center;
+}
+
+.card img {
+  width: 290px;
+  height: 300px;
+}
+
+.card-title {
+  text-decoration: underline;
+  background-color: #E6E6FA;
+  font-family: Georgia;
+}
+
+.carousel {
+  width: 750px;
+  height: 360px;
+  margin: auto;
+}
+
+.font {
+  text-align: center;
+  text-decoration: underline;
+  font-family: Georgia;
+}
+
+.text {
+  font-size: 23px;
+  font-family: Georgia;
+  text-align: center;
+  margin: 20px;
+}
