@@ -44,17 +44,6 @@ body {
   min-width: 100%;
 }
 
-.center {
-  color: black;
-  font-weight: bold;
-  font-size: 40px;
-  text-decoration: underline;
-  top: 50%;
-  left: 50%;
-  position: absolute;
-  font-family: Georgia;
-}
-
 .title {
   text-align: center;
   font-size: 40px;
